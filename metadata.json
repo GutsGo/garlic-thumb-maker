@@ -1,0 +1,5 @@
+{
+  "name": "RetroUI Scaler",
+  "description": "A tool to composite images onto a 640x480 retro handheld canvas layout.",
+  "requestFramePermissions": []
+}
